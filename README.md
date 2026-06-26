@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Boitshoko+Soomo+%F0%9F%91%8B;Full-Stack+Developer+%7C+SAP+Consultant;Builder+of+things+that+solve+real+problems)](https://git.io/typing-svg)
+[(https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Boitshoko+Soomo+%F0%9F%91%8B;Full-Stack+Developer+%7C+SAP+Consultant;Builder+of+things+that+solve+real+problems)](https://git.io/typing-svg)
  
 <br/>
 <!-- Profile views counter -->
@@ -99,7 +99,7 @@ I build web applications, automate tests and work with SAP systems. I enjoy turn
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoitshokoSoomo&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 <div align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=BoitshokoSoomo&theme=tokyonight&hide_border=true)
+!(https://streak-stats.demolab.com?user=BoitshokoSoomo&theme=tokyonight&hide_border=true)
  
 </div>
 ---
