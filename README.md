@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Typing animation header -->
-[(https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Boitshoko+Soomo+%F0%9F%91%8B;Full-Stack+Developer+%7C+SAP+Consultant;Builder+of+things+that+solve+real+problems)](https://git.io/typing-svg)
+[(https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Boitshoko+Soomo+%F0%9F%91%8B;Full-Stack+Developer+%7C+SAP+Consultant;Builder+of+things+that+solve+real+problems)] (https://git.io/typing-svg)
  
 <br/>
 <!-- Profile views counter -->
