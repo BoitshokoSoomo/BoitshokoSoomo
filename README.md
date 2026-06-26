@@ -4,9 +4,9 @@
  
 <br/>
 <!-- Profile views counter -->
-![Profile Views] (https://komarev.com/ghpvc/?username=BoitshokoSoomo&color=2F80ED&style=flat-square&label=Profile+Views) <br/>
-[![LinkedIn] (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/boitshoko-soomo-13a0b7220) <br/>
-[![GitHub followers] (https://img.shields.io/github/followers/BoitshokoSoomo?label=Follow&style=flat-square&color=2F80ED)](https://github.com/BoitshokoSoomo)
+[Profile Views] (https://komarev.com/ghpvc/?username=BoitshokoSoomo&color=2F80ED&style=flat-square&label=Profile+Views) <br/>
+[LinkedIn] (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/boitshoko-soomo-13a0b7220) <br/>
+[GitHub followers] (https://img.shields.io/github/followers/BoitshokoSoomo?label=Follow&style=flat-square&color=2F80ED)](https://github.com/BoitshokoSoomo)
  
 </div>
 ---
