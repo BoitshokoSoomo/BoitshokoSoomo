@@ -96,12 +96,11 @@ I build web applications, automate tests and work with SAP systems. I enjoy turn
 ## 📊 GitHub Stats
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BoitshokoSoomo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoitshokoSoomo&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-wine.vercel.app/api?username=BoitshokoSoomo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-wine.vercel.app/api/top-langs/?username=BoitshokoSoomo&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 <div align="center">
-![Streak Stats](https://streak-stats.demolab.com?user=BoitshokoSoomo&theme=tokyonight&hide_border=true)
- 
+<img src="https://streak-stats.demolab.com?user=BoitshokoSoomo&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </div>
 ---
  
